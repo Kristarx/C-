@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1548762199 source:c:\users\g580\documents\programming\c++\ships\ships\main.cpp
+	<SDL2/SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<cmath>
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"Player1.h"
+	"Player2.h"
+
+1540997982 c:\libraries\sdl2_image-2.0.4\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547670505 source:c:\users\g580\documents\programming\c++\ships\ships\player1.cpp
+	<iostream>
+	"Player1.h"
+
+1547662312 c:\users\g580\documents\programming\c++\ships\ships\player1.h
+	<iostream>
+
+1547670510 source:c:\users\g580\documents\programming\c++\ships\ships\player2.cpp
+	<iostream>
+	"Player2.h"
+
+1547662340 c:\users\g580\documents\programming\c++\ships\ships\player2.h
+	<iostream>
+
+1548863629 source:c:\users\g580\documents\programming\c++\other\ships\ships\player1.cpp
+	<iostream>
+	"Player1.h"
+
+1548863629 c:\users\g580\documents\programming\c++\other\ships\ships\player1.h
+	<iostream>
+
+1547670510 source:c:\users\g580\documents\programming\c++\other\ships\ships\player2.cpp
+	<iostream>
+	"Player2.h"
+
+1547662340 c:\users\g580\documents\programming\c++\other\ships\ships\player2.h
+	<iostream>
+
+1548867260 source:c:\users\g580\documents\programming\c++\other\ships\ships\main.cpp
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<cmath>
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"Player1.h"
+	"Player2.h"
+	<SDL.h>
+	<stdio.h>
+
+1548870738 source:c:\users\g580\documents\programming\c++, c#\other\ships\ships\main.cpp
+	<SDL2/SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<cmath>
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"Player1.h"
+	"Player2.h"
+
+1548863629 c:\users\g580\documents\programming\c++, c#\other\ships\ships\player1.h
+	<iostream>
+
+1547662340 c:\users\g580\documents\programming\c++, c#\other\ships\ships\player2.h
+	<iostream>
+
+1548863629 source:c:\users\g580\documents\programming\c++, c#\other\ships\ships\player1.cpp
+	<iostream>
+	"Player1.h"
+
+1547670510 source:c:\users\g580\documents\programming\c++, c#\other\ships\ships\player2.cpp
+	<iostream>
+	"Player2.h"
+
